@@ -1,6 +1,5 @@
 Here's a sample `README.md` file for your Pharmacy Management System project:
 
-```markdown
 # Pharmacy Management System
 
 ## Overview
