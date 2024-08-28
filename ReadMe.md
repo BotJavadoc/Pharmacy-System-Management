@@ -36,7 +36,7 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pharmacy-management-system.git
+   git clone https://github.com/BotJavadoc/Pharmacy-System-Management.git
    cd pharmacy-management-system
    ```
 
