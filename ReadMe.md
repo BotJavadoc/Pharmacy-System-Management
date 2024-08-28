@@ -57,6 +57,28 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 
 4. **Access the application:**
    - Open your web browser and go to `http://localhost:8080`.
+  
+## Screen Shots
+-Home Page
+
+![home page](https://github.com/user-attachments/assets/d3cdf63d-5d67-4c11-9f4e-7a0048aba886)
+
+-Adding Stocks
+
+![adding stocks](https://github.com/user-attachments/assets/5d42bba2-0eab-4cc0-91c0-5a87b0885784)
+
+-Genrating Bill
+
+![generating bill](https://github.com/user-attachments/assets/c5fb04ec-8646-4b87-8c43-f40657bc3c7b)
+
+-Adding supplier
+
+![adding supplier](https://github.com/user-attachments/assets/51efa929-35b5-4fbf-a24c-f5007bee95c6)
+
+-Contact Us page
+
+![contact us page](https://github.com/user-attachments/assets/beee714e-db69-40ac-89b4-8e6fa53b97f5)
+
 
 ## Usage
 
@@ -72,21 +94,8 @@ This Pharmacy Management System is a comprehensive solution designed to streamli
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or support, please reach out at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or support, please reach out at [abhishekabu0155@gmail.com](mailto:abhishekabu0155@gmail.com).
 ```
 
-### Key Sections:
-- **Overview:** Describes the purpose of the project.
-- **Features:** Lists the key functionalities.
-- **Technologies Used:** Highlights the tech stack.
-- **Setup and Installation:** Provides steps to set up and run the project.
-- **Usage:** Explains how to use the system.
-- **Contributing:** Encourages contributions.
-- **License:** Mentions the project's license.
-- **Contact:** Provides contact information for support.
